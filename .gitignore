@@ -1,1 +1,11 @@
+# 编译产物
 *.exe
+*.o
+*.out
+
+# VS Code
+.vscode/
+
+# 临时文件
+*.tmp
+*.swp
